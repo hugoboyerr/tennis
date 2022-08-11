@@ -1,0 +1,15 @@
+.Register fieldset {
+    margin-bottom: 15px;
+}
+
+.Register label,
+.Register input {
+    margin-right: 15px;
+    
+}
+
+form.Register {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
